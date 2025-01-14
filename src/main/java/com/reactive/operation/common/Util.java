@@ -1,4 +1,4 @@
-package com.reactive.common;
+package com.reactive.operation.common;
 
 import java.time.Duration;
 import java.util.function.UnaryOperator;

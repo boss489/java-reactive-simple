@@ -1,8 +1,8 @@
-package com.reactive.merge.helper;
+package com.reactive.operation.merge.helper;
 
 import java.time.Duration;
 
-import com.reactive.common.Util;
+import com.reactive.operation.common.Util;
 
 import reactor.core.publisher.Flux;
 

@@ -1,7 +1,7 @@
-package com.reactive.merge;
+package com.reactive.operation.merge;
 
-import com.reactive.common.Util;
-import com.reactive.merge.helper.Kayak;
+import com.reactive.operation.common.Util;
+import com.reactive.operation.merge.helper.Kayak;
 
 public class Lec06MergeUseCase {
 
